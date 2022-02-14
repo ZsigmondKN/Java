@@ -17,6 +17,9 @@ public class Ex1 {
 	        String num = "305";  //Declared a string and assign the 'num' a string of 305
 	        int z =Integer.parseInt(num) ; //Taking the num and turning into an interger  called 'z'
 	        System.out.println(num); //Print the 'num'
+	        
+	        double random = Math.random();
+	        System.out.println(random);
 	    }
 }
 
